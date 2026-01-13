@@ -2,11 +2,7 @@
 #Create directories
 mkdir -p src
 mkdir -p research
-touch
-touch
-touch
-touch
-touch
+
 
 #creating files
 
